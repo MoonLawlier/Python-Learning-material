@@ -2,7 +2,7 @@
 #printing stataements
 print("Hello World!")
 #Variabales
-name = "Moon Lawlier!" #string ( can be between '', "", "' '") 
+name = "MoonLawlier!" #string ( can be between '', "", "' '") 
 age = 17  #integer ( do not need double quotes!)
 is_adult = False #Boolean datatype (True or False ) (do not use true and false)
 print(name, "I'm 17 years old.")
